@@ -1,2 +1,2 @@
 # Artificial-Intelligence-NAVTTC-B-2026
-code snippets,notebooks related to AI course taught
+code snippets,notebooks related to AI course taught at Corvit System Multan
